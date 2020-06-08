@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DanielAguirre/flags-project.git/static/css/main.b6a1c437.chunk.css",
+    "main.js": "/DanielAguirre/flags-project.git/static/js/main.3ea12798.chunk.js",
+    "main.js.map": "/DanielAguirre/flags-project.git/static/js/main.3ea12798.chunk.js.map",
+    "runtime-main.js": "/DanielAguirre/flags-project.git/static/js/runtime-main.5325c4a7.js",
+    "runtime-main.js.map": "/DanielAguirre/flags-project.git/static/js/runtime-main.5325c4a7.js.map",
+    "static/js/2.a69d18f7.chunk.js": "/DanielAguirre/flags-project.git/static/js/2.a69d18f7.chunk.js",
+    "static/js/2.a69d18f7.chunk.js.map": "/DanielAguirre/flags-project.git/static/js/2.a69d18f7.chunk.js.map",
+    "index.html": "/DanielAguirre/flags-project.git/index.html",
+    "precache-manifest.b5496d24bdf0a89442ceccc15cda420e.js": "/DanielAguirre/flags-project.git/precache-manifest.b5496d24bdf0a89442ceccc15cda420e.js",
+    "service-worker.js": "/DanielAguirre/flags-project.git/service-worker.js",
+    "static/css/main.b6a1c437.chunk.css.map": "/DanielAguirre/flags-project.git/static/css/main.b6a1c437.chunk.css.map",
+    "static/js/2.a69d18f7.chunk.js.LICENSE.txt": "/DanielAguirre/flags-project.git/static/js/2.a69d18f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5325c4a7.js",
+    "static/js/2.a69d18f7.chunk.js",
+    "static/css/main.b6a1c437.chunk.css",
+    "static/js/main.3ea12798.chunk.js"
+  ]
+}
