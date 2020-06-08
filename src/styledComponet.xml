@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title> Style  Functional React Compone</Title>
+            <Author>Daniel Aguirre</Author>
+            <Description>Create and Style Functional React Component</Description>
+        </Header>
+        <Snippet>
+            <Code Language="JavaScript">
+                <![CDATA[
+                import React from 'react'
+                import styled from 'styled-components'
+                    const CountrySyle = styled.div`
+                    
+                    `
+                    function Country() {
+                        return (
+                            <CountrySyle>
+                                
+                            </CountrySyle>
+                        )
+                    }
+                
+                export default Country
+                ]]>
+            </Code>
+            
+            <Shortcut>sqrt</Shortcut>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>
